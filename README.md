@@ -31,7 +31,7 @@ A diferencia de un chatbot convencional, este agente está programado para enten
 
 1.  Clonar el repositorio:
     ```bash
-    git clone [https://github.com/tu-usuario/factory-ai-backend.git](https://github.com/tu-usuario/factory-ai-backend.git)
+    git clone [https://github.com/javier1793-op/factory-ai-backend.git](https://github.com/javier1793-op/factory-ai-backend.git)
     ```
 2.  Instalar dependencias:
     ```bash
@@ -55,4 +55,4 @@ A diferencia de un chatbot convencional, este agente está programado para enten
 - [ ] Implementación de WebSockets para respuestas en tiempo real.
 
 ---
-Desarrollado por [Tu Nombre] - Systems Analyst & Fullstack Developer.
+Desarrollado por Javier Alejandro - Systems Analyst & Fullstack Developer.
